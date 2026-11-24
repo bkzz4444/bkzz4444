@@ -59,12 +59,37 @@
 
 <br />
 
-<!-- Featured Project Showcase -->
+<!-- Featured Projects Showcase -->
 <div align="center">
-  <h3>Featured Project</h3>
+  <h3>Featured Projects</h3>
 </div>
 
 <table>
+  <tr>
+    <td width="46%" align="center">
+      <a href="https://bkzz4444.github.io/gojo-hollow-purple/">
+        <img src="https://raw.githubusercontent.com/bkzz4444/gojo-hollow-purple/main/assets/preview-void.png" alt="Gojo Unlimited Void 3D Preview" width="100%" />
+      </a>
+    </td>
+    <td width="54%" valign="middle">
+      <h4><a href="https://github.com/bkzz4444/gojo-hollow-purple">gojo-hollow-purple</a></h4>
+      <p>
+        Interactive <b>3D WebGL Gojo Satoru</b> showcase featuring <b>Unlimited Void</b> (3D Black Hole), <b>Lapse: Blue</b>, <b>Reversal: Red</b>, and <b>Hollow Purple</b> with Custom GLSL Shaders &amp; HDR Bloom.
+      </p>
+      <p>
+        <code>Three.js</code> · <code>WebGL</code> · <code>GLSL Shaders</code> · <code>SVG</code>
+      </p>
+      <p>
+        <a href="https://bkzz4444.github.io/gojo-hollow-purple/">
+          <img src="./assets/btn-live-demo.svg" alt="Live Demo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/bkzz4444/gojo-hollow-purple">
+          <img src="./assets/btn-source-code.svg" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="46%" align="center">
       <a href="https://bkzz4444.github.io/sharingan-evolution/">
