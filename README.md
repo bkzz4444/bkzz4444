@@ -4,13 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,55:450a0a,100:b91c1c&height=200&section=header&text=ALEXIOS&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Flutter%20-%20Python%20-%20Creative%20Web%20Developer&descSize=15&descAlignY=62&animation=fadeIn" width="100%" alt="ALEXIOS Banner" />
 
 <!-- Animated Role Line -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=540&lines=Building+Cross-Platform+Apps+with+Flutter+%2B+Dart;Automating+%2B+Creating+with+Python;Crafting+Minimal+Web+UI+%2B+Anime+Animations" alt="Typing Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=650&lines=Building+Cross-Platform+Apps+with+Flutter+%2B+Dart;Automating+%2B+Creating+with+Python;Crafting+Minimal+Web+UI+%2B+Anime+Animations" alt="Typing Subtitle" />
 
 <br />
 
-![Views](https://komarev.com/ghpvc/?username=bkzz4444&color=b91c1c&style=flat-square&label=VIEWS)
-![Followers](https://img.shields.io/github/followers/bkzz4444?style=flat-square&color=18181b&labelColor=b91c1c&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/REPOS-PUBLIC-18181b?style=flat-square&labelColor=27272a)
+<img src="https://komarev.com/ghpvc/?username=bkzz4444&color=b91c1c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -83,10 +81,11 @@
       </p>
       <p>
         <a href="https://bkzz4444.github.io/sharingan-evolution/">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-b91c1c?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Demo" />
+          <img src="./assets/btn-live-demo.svg" alt="Live Demo" />
         </a>
+        &nbsp;
         <a href="https://github.com/bkzz4444/sharingan-evolution">
-          <img src="https://img.shields.io/badge/SOURCE_CODE-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+          <img src="./assets/btn-source-code.svg" alt="Source Code" />
         </a>
       </p>
     </td>
