@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner (Dark Crimson Capsule Wave) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:450a0a,100:b91c1c&height=210&section=header&text=ALEXIOS&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Creative%20Developer%20%E2%80%A2%20UI%20%26%20Animation%20Enthusiast&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="ALEXIOS Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:450a0a,100:b91c1c&height=210&section=header&text=ALEXIOS&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Creative%20Developer%20-%20UI%20and%20Animation%20Enthusiast&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="ALEXIOS Header" />
 
 <!-- Animated Typing Subtitle -->
 <a href="https://github.com/bkzz4444">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3200&pause=1000&color=EF4444&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+Profile;Building+Clean+UI+%26+Anime+Animations;Exploring+Web+Design+%26+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3200&pause=1000&color=EF4444&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+Profile;Building+Clean+UI+and+Anime+Animations;Exploring+Web+Design+and+Code" alt="Typing SVG" />
 </a>
 
 <br />
