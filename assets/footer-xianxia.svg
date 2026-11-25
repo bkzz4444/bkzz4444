@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 96" width="1000" height="96">
+  <defs>
+    <linearGradient id="f-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#14080c" />
+      <stop offset="100%" stop-color="#050508" />
+    </linearGradient>
+    <linearGradient id="f-gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c6933d" stop-opacity="0" />
+      <stop offset="50%" stop-color="#f3d285" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#c6933d" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="f-clip">
+      <rect x="0" y="0" width="1000" height="96" rx="12" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#f-clip)">
+    <rect width="1000" height="96" fill="url(#f-bg)" />
+    <path d="M 0,80 Q 150,36 310,64 T 660,52 Q 830,38 1000,72 L 1000,96 L 0,96 Z" fill="#090508" opacity="0.9" />
+    <line x1="220" y1="30" x2="780" y2="30" stroke="url(#f-gold)" stroke-width="0.9" />
+    <text x="500" y="56" text-anchor="middle" fill="#e5d5b5" font-family="Georgia, serif" font-size="14" letter-spacing="6">「 化 碼 為 道 · 止 於 至 善 」</text>
+    <text x="500" y="76" text-anchor="middle" fill="#9ca3af" font-family="'Segoe UI', sans-serif" font-size="10.5" letter-spacing="3">ALEXIOS · @BKZZ4444</text>
+    <rect x="0.75" y="0.75" width="998.5" height="94.5" rx="11.5" fill="none" stroke="#c6933d" stroke-opacity="0.24" stroke-width="1" />
+  </g>
+</svg>
