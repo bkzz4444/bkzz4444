@@ -135,32 +135,47 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="46%" align="center">
-      <a href="https://bkzz4444.github.io/sharingan-evolution/">
-        <img src="https://raw.githubusercontent.com/bkzz4444/sharingan-evolution/main/assets/preview-mangekyo.png" alt="Sharingan Evolution Preview" width="100%" />
-      </a>
-    </td>
-    <td width="54%" valign="middle">
-      <h4><a href="https://github.com/bkzz4444/sharingan-evolution">sharingan-evolution</a></h4>
-      <p>
-        Ultra-clean, zero-dependency <b>6-stage Uchiha Dōjutsu Loading Animation</b> evolving from 1-Tomoe Sharingan through Mangekyō, Eternal Mangekyō, to Rinnegan.
-      </p>
-      <p>
-        <code>HTML5</code> · <code>CSS3</code> · <code>SVG</code> · <code>JavaScript</code>
-      </p>
-      <p>
-        <a href="https://bkzz4444.github.io/sharingan-evolution/">
-          <img src="./assets/btn-live-demo.svg" alt="Live Demo" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/bkzz4444/sharingan-evolution">
-          <img src="./assets/btn-source-code.svg" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
+
+<details>
+  <summary><b>More Creations · ดูผลงานเพิ่มเติม (1+)</b></summary>
+  <br />
+  <table>
+    <tr>
+      <td width="46%" align="center">
+        <a href="https://bkzz4444.github.io/sharingan-evolution/">
+          <img src="https://raw.githubusercontent.com/bkzz4444/sharingan-evolution/main/assets/preview-mangekyo.png" alt="Sharingan Evolution Preview" width="100%" />
+        </a>
+      </td>
+      <td width="54%" valign="middle">
+        <h4><a href="https://github.com/bkzz4444/sharingan-evolution">sharingan-evolution</a></h4>
+        <p>
+          Ultra-clean, zero-dependency <b>6-stage Uchiha Dōjutsu Loading Animation</b> evolving from 1-Tomoe Sharingan through Mangekyō, Eternal Mangekyō, to Rinnegan.
+        </p>
+        <p>
+          <code>HTML5</code> · <code>CSS3</code> · <code>SVG</code> · <code>JavaScript</code>
+        </p>
+        <p>
+          <a href="https://bkzz4444.github.io/sharingan-evolution/">
+            <img src="./assets/btn-live-demo.svg" alt="Live Demo" />
+          </a>
+          &nbsp;
+          <a href="https://github.com/bkzz4444/sharingan-evolution">
+            <img src="./assets/btn-source-code.svg" alt="Source Code" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/bkzz4444?tab=repositories">
+    <img src="./assets/btn-view-all.svg" alt="View All Projects" />
+  </a>
+</div>
 
 <br />
 
