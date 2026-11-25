@@ -87,6 +87,31 @@
 <table>
   <tr>
     <td width="46%" align="center">
+      <a href="https://bkzz4444.github.io/3d-keyboard-portfolio/">
+        <img src="https://raw.githubusercontent.com/bkzz4444/3d-keyboard-portfolio/main/assets/preview-hero.png" alt="3D Interactive Keyboard Portfolio Preview" width="100%" />
+      </a>
+    </td>
+    <td width="54%" valign="middle">
+      <h4><a href="https://github.com/bkzz4444/3d-keyboard-portfolio">3d-keyboard-portfolio</a></h4>
+      <p>
+        Interactive <b>3D Mechanical Keycap Portfolio</b> built with Three.js, glossy 3D rounded keycaps, Web Audio API mechanical switch click SFX, and scroll-driven 3D choreography.
+      </p>
+      <p>
+        <code>Three.js</code> · <code>WebGL</code> · <code>Web Audio API</code> · <code>HTML/CSS</code>
+      </p>
+      <p>
+        <a href="https://bkzz4444.github.io/3d-keyboard-portfolio/">
+          <img src="./assets/btn-live-demo.svg" alt="Live Demo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/bkzz4444/3d-keyboard-portfolio">
+          <img src="./assets/btn-source-code.svg" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46%" align="center">
       <a href="https://bkzz4444.github.io/gojo-hollow-purple/">
         <img src="https://raw.githubusercontent.com/bkzz4444/gojo-hollow-purple/main/assets/preview-void.png" alt="Gojo Unlimited Void 3D Preview" width="100%" />
       </a>
